@@ -1,6 +1,7 @@
 HiKey960 开发板是 Google Android 官方提供支持的开发板。Google 有提供为这块开发板编译内核的文档，地址为 `https://source.android.com/source/devices#960hikey` ，描述了 HiKey960 开发板编译内核的方法。
 
 HiKey960 有 3GB RAM 的配置，HiKey960 板子如下图：
+
 ![在这里插入图片描述](./pic/3.png)
 
 # 1.准备工作
